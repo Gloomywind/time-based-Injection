@@ -1,2 +1,2 @@
 # time-based-Injection
-time-based Injection
+改进版的时间注入脚本，原理是将要猜解的字符转为2进制，然后分别开8个线程来对每一个bit进行猜解
